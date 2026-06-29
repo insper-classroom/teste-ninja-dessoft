@@ -6,9 +6,9 @@ Sua tarefa será implementar uma versão simplificada do jogo "Speed Memory" uti
     <img src="img/jogo_a.gif">
 </div>
 
-## IMPORTANTE! Entrega da Prova
+## IMPORTANTE! Entrega da avaliação
 
-Para enviar a solução desta avaliação, realize commits no repositório. A quantidade de funcionalidades será utilizada na avaliação.
+Para enviar a solução desta avaliação, basta realizar commits no repositório. A quantidade de funcionalidades será utilizada na avaliação.
 
 ## NÍVEL BÁSICO
 
