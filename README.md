@@ -16,7 +16,7 @@ O código principal do seu jogo deve ser escrito no arquivo `jogo.py`.
 
 1. Criando o jogo:
     - Crie uma janela com dimensões 600 x 400;
-    - Adicione um título a janela com o nome "Prova Pygame 1";
+    - Adicione um título a janela com o nome "Desafio Pygame";
     - Ao clicar em sair, o jogo finaliza sem erros.
 
 2. Desenhando o fundo e o baralho:
